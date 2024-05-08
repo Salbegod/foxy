@@ -1,0 +1,7 @@
+{
+  "token": "<your-ngrok-token>",
+  "clientId": "<your-discord-client-id>",
+  "guildId": "<your-discord-guild-id>",
+  "ip": "<your-ngrok-ip-addr>"
+
+}
